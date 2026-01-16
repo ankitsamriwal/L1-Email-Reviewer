@@ -1,0 +1,31 @@
+# Phishing Keywords
+# Add one phrase or keyword per line (case-insensitive matching)
+# Lines starting with # are comments
+
+# Account verification phishing
+verify your account
+suspended account
+confirm your identity
+unusual activity detected
+security alert
+
+# Urgency tactics
+urgent action required
+immediate action needed
+click here immediately
+act now or lose access
+account will be closed
+limited time offer
+
+# Credential theft
+confirm your password
+update payment information
+verify payment method
+re-enter your credentials
+click here to login
+
+# Common phishing phrases
+you have won
+claim your prize
+verify account information
+unusual sign-in activity

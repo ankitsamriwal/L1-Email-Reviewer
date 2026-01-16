@@ -1,0 +1,8 @@
+# Blocked Senders Blacklist
+# Add one email address or domain per line
+# Lines starting with # are comments
+
+# Example entries (remove these and add your blocked senders):
+# known-spam-domain.xyz
+# phishing@suspicious-site.com
+# badactor@malicious.net

@@ -1,0 +1,9 @@
+# Trusted Senders Whitelist
+# Add one email address or domain per line
+# Lines starting with # are comments
+
+# Example entries (remove these and add your trusted senders):
+# trusted-vendor.com
+# important-partner@business.com
+# billing@stripe.com
+# notifications@github.com
